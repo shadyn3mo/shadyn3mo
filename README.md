@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Zihan Zhang 👋
+# <img src="wave.gif" width="30px"> Hey, I'm Zihan Zhang
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+in+ECE;NVM+Device+Modeling+%26+System+Co-Design;AI+Hardware+Acceleration+Researcher;Physics-Informed+ML+%26+Generative+Models" alt="Typing SVG" />
 
@@ -82,16 +82,29 @@ My first-author work on the **PIGen framework** (ICCAD 2025) achieved up to **93
 </tr>
 </table>
 
-## 📊 GitHub Activity
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadyn3mo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadyn3mo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+
+## 📝 Publications
+
 </div>
 
+### 🎯 PIGen: Accelerating Re-RAM Co-Design via Generative Physics-Informed Modeling
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadyn3mo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+**Zihan Zhang** and Marco Donato
+
+*IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2025**)* | October 2025
+
+[![Paper](https://img.shields.io/badge/Paper-ICCAD%202025-blue?style=for-the-badge)](https://iccad.com)
+
 </div>
+
+**Abstract:** This work presents PIGen, a novel generative physics-informed framework that combines PDE-constrained Physics-Informed Neural Networks (PINNs) with Conditional Variational Autoencoders (CVAEs) to enable rapid and accurate ReRAM device modeling. PIGen achieves up to **93x computational speedup** over traditional SPICE simulations while maintaining **>96% accuracy** in key switching dynamics, dramatically accelerating technology-application co-design exploration.
+
+---
 
 ## 🔬 Featured Research Projects
 
@@ -137,34 +150,6 @@ Designed and developed **msxFI**, a Python-based framework to evaluate the resil
 
 **Technologies:** Python, PyTorch, NVSim, Memory Architecture Simulation, Fault Injection, DNN Reliability Analysis, Quantization Formats
 
-## 📝 Publications
-
-**PIGen: Accelerating Re-RAM Co-Design via Generative Physics-Informed Modeling**
-*Zihan Zhang and Marco Donato*
-**IEEE/ACM International Conference on Computer-Aided Design (ICCAD)**, October 2025
-
----
-
-## 🏆 Awards & Recognition
-
-🌟 **Featured Student, School of Engineering Brochure**
-*Tufts University* | November 2024
-Selected as a featured student highlighting academic excellence and research contributions
-
-🥈 **Second Place, ECE Poster Competition**
-*Tufts University, ECE Department* | October 2023
-Awarded for research and presentation of **nvmXR**: a novel design space exploration framework for optimizing hybrid NVM and Processing-In-Memory (PIM) architectures for energy-efficient Edge-XR systems
-
----
-
-## 🎤 Presentations
-
-- **Work-in-Progress Presenter** | 61st & 62nd Design Automation Conference (DAC)
-  📍 San Francisco, CA | June 2024 & June 2025
-
-- **Presenter** | 14th Non-Volatile Memories Workshop (NVMW)
-  📍 San Diego, CA | March 2023
-
 ---
 
 ## 💡 Research Philosophy
@@ -181,6 +166,21 @@ I believe in bridging the gap between fundamental device physics and practical s
 
 I'm always interested in discussing emerging memory technologies, AI hardware acceleration, or collaborative research opportunities. Feel free to reach out!
 
+<br>
+
+<a href="https://github.com/shadyn3mo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-6366F1?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<br>
+<br>
+
 **Thanks for visiting!**
 
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <img alt="github-snake" src="./images/github-snake.svg" style="width: 100%;" />
+</picture>
