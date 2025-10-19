@@ -35,7 +35,7 @@ I'm a Ph.D. Candidate in Electrical and Computer Engineering at **Tufts Universi
 - ⚡ **System Co-Design**: Automated technology-application co-design frameworks
 
 **Recent Highlight:**
-My first-author work on the **PIGen framework** (ICCAD 2025) achieved up to **93x speedup** over traditional SPICE simulations while maintaining over **96% accuracy** in key switching dynamics, enabling rapid and robust co-design exploration even from sparse data.
+My first-author work on the **PIGen framework** (ICCAD 2025) achieved up to **93x speedup** (on Intel i9 + RTX 3090) over traditional SPICE simulations while maintaining over **96% accuracy** in key switching dynamics, enabling rapid and robust co-design exploration even from sparse data.
 
 **Education:**
 - 🎓 **Ph.D. in ECE** | Tufts University (2021 - Present)
@@ -114,7 +114,7 @@ My first-author work on the **PIGen framework** (ICCAD 2025) achieved up to **93
 A novel PDE-constrained PINN + CVAE workflow that bridges device physics to system-level metrics for automated technology-application co-design.
 
 **Key Achievements:**
-- ⚡ **93x computational speedup** over SPICE for switching dynamics inference (7.1 ms vs. 664 ms)
+- ⚡ **93x computational speedup** over SPICE for switching dynamics inference (7.1 ms vs. 664 ms) on Intel i9 + RTX 3090
 - 🎯 **>96% accuracy** in switching dynamics under sparse data conditions (~9% of training set)
 - 🔄 Enabled rapid design-space exploration with PINN-driven endurance landscapes
 - 📊 Matched SPICE results while exposing reliability vs. PPA trade-offs
@@ -125,6 +125,8 @@ A novel PDE-constrained PINN + CVAE workflow that bridges device physics to syst
 
 ### MemSysExplorer (MSX): Next-Generation Memory Systems
 **NSF CIRC Funded Program | Collaborative Research**
+
+[![GitHub](https://img.shields.io/badge/GitHub-MemSysExplorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/MemSysExplorer)
 
 Community tools and interfaces for exploring and evaluating next-generation memory systems with focus on NVM and eDRAM technologies.
 
