@@ -33,6 +33,7 @@ I'm a Ph.D. Candidate in Electrical and Computer Engineering at **Tufts Universi
 - 🚀 **AI Hardware Acceleration**: Designing efficient architectures for edge computing and XR systems
 - 🧠 **Physics-Informed ML**: Combining PDEs with deep learning for rapid, accurate device simulation
 - ⚡ **System Co-Design**: Automated technology-application co-design frameworks
+- 🛡️ **Fault Injection & Reliability**: Memory fault modeling and DNN resilience analysis for NVM and eDRAM systems
 
 **Recent Highlight:**
 My first-author work on the **PIGen framework** (ICCAD 2025) achieved up to **93x speedup** (on Intel i9 + RTX 3090) over traditional SPICE simulations while maintaining over **96% accuracy** in key switching dynamics, enabling rapid and robust co-design exploration even from sparse data.
