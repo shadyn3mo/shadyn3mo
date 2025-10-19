@@ -2,7 +2,7 @@
 
 # <img src="wave.gif" width="30px"> Hey, I'm Zihan Zhang
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+in+ECE;NVM+Device+Modeling+%26+System+Co-Design;AI+Hardware+Acceleration+Researcher;Physics-Informed+ML+%26+Generative+Models" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+in+ECE;NVM+Device+Modeling+%26+System+Co-Design;AI+Hardware+Acceleration+Researcher;Physics-Informed+ML+%26+Generative+Models;Fault+Injection+%26+Reliability" alt="Typing SVG" />
 
 <p>
   <a href="mailto:zihan.zhang@tufts.edu">
