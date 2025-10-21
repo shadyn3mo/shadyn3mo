@@ -79,12 +79,15 @@ My main research areas are:
 ## 📝 Featured Work
 
 ### PIGen: Generative Physics-Informed Co-Design for ReRAM
+[![Paper](https://img.shields.io/badge/Paper-ICCAD%202025-blue?style=for-the-badge)](https://iccad.com)
 *First Author @ IEEE/ACM ICCAD 2025*
 
 PIGen is a framework I developed to speed up the design of ReRAM devices. It uses a mix of physics-informed neural networks and generative models to quickly find optimal device parameters. This work achieved a **93x speedup** over traditional simulations with over **96% accuracy**, making it much faster to explore new design ideas.
 
-### MemSysExplorer (MSX): A Framework for Next-Gen Memory Systems [![GitHub](https://img.shields.io/badge/GitHub-MemSysExplorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/MemSysExplorer)
+### MemSysExplorer (MSX): A Framework for Next-Gen Memory Systems
+[![GitHub](https://img.shields.io/badge/GitHub-MemSysExplorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/MemSysExplorer)
 *Collaborative Research @ NSF CIRC Program*
+
 I contributed to the MemSysExplorer project by creating **msxFI**, a Python framework for testing the reliability of deep learning models. It simulates memory faults in NVM and eDRAM to see how they affect neural network performance. This tool helps researchers build more robust AI systems by understanding how hardware failures impact software.
 
 ---
