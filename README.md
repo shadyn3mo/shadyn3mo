@@ -36,7 +36,7 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
 
 <table>
 <tr>
-  <td valign="top">
+  <td valign="top" width="33%">
     <h3>Modeling & EDA</h3>
     <ul>
       <li>Synopsys Sentaurus</li>
@@ -45,7 +45,7 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
       <li>COMSOL</li>
     </ul>
   </td>
-  <td valign="top">
+  <td valign="top" width="33%">
     <h3>Programming & ML</h3>
     <div align="center">
       <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab" />
@@ -56,7 +56,7 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
       <li>MATLAB</li>
     </ul>
   </td>
-  <td valign="top">
+  <td valign="top" width="33%">
     <h3>Research Domains</h3>
     <ul>
       <li>Semiconductor Physics</li>
