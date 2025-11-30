@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="wave.gif" width="30px"> Hey, I'm Zihan Zhang
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zihan%20Zhang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ph.D.%20Candidate%20|%20AI%20Hardware%20|%20NVM%20Devices&descSize=16&descAlignY=52" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Ph.D.+Candidate+in+ECE;NVM+Device+Modeling+%26+System+Co-Design;AI+Hardware+Acceleration+Researcher;Physics-Informed+ML+%26+Generative+Models" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Physics-Informed+Machine+Learning;NVM+Device+Modeling+%26+Optimization;93%C3%97+Faster+Device+Simulation;Building+Next-Gen+Memory+Systems" alt="Typing SVG" />
 
 <p>
   <a href="mailto:zihan.zhang@tufts.edu">
@@ -71,15 +71,6 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadyn3mo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="150" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadyn3mo&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="150" alt="streak"/>
-</div>
-
----
-
 ## 📝 Featured Work
 
 ### PIGen: Accelerating ReRAM Co-Design via Generative Physics-Informed Modeling
@@ -130,3 +121,5 @@ I'm always open to discussing new ideas in memory tech, AI hardware, or other ex
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
   <img alt="github-snake" src="./images/github-snake.svg" style="width: 100%;" />
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
