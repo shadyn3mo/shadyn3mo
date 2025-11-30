@@ -37,7 +37,6 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
 <table>
 <tr>
   <td valign="top">
-    <img width="250" height="1" src="https://user-images.githubusercontent.com/0/0.png">
     <h3>Modeling & EDA</h3>
     <ul>
       <li>Synopsys Sentaurus</li>
@@ -47,10 +46,9 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
     </ul>
   </td>
   <td valign="top">
-    <img width="250" height="1" src="https://user-images.githubusercontent.com/0/0.png">
     <h3>Programming & ML</h3>
     <div align="center">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab" width="180" />
     </div>
     <ul>
       <li>Python (PyTorch, NumPy)</li>
@@ -59,7 +57,6 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
     </ul>
   </td>
   <td valign="top">
-    <img width="250" height="1" src="https://user-images.githubusercontent.com/0/0.png">
     <h3>Research Domains</h3>
     <ul>
       <li>Semiconductor Physics</li>
