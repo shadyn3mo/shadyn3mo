@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zihan%20Zhang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ph.D.%20Candidate%20|%20AI%20Hardware%20|%20NVM%20Devices&descSize=16&descAlignY=52" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Physics-Informed+Machine+Learning;NVM+Device+Modeling+%26+Optimization;93%C3%97+Faster+Device+Simulation;Building+Next-Gen+Memory+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Physics-Informed+Machine+Learning;NVM+Device+Modeling+%26+Optimization;Building+Next-Gen+Memory+Systems" alt="Typing SVG" />
 
 <p>
   <a href="mailto:zihan.zhang@tufts.edu">
