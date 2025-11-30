@@ -48,7 +48,7 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
   <td valign="top">
     <h3>Programming & ML</h3>
     <div align="center">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab" width="180" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab" />
     </div>
     <ul>
       <li>Python (PyTorch, NumPy)</li>
