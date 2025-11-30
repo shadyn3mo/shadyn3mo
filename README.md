@@ -26,14 +26,9 @@
 
 ## 🌟 About Me
 
-I am a Ph.D. Candidate in Electrical and Computer Engineering at **Tufts University**. My research connects device physics with system-level design, focusing on non-volatile memories (NVM) and AI hardware acceleration. I use physics-informed machine learning to create fast and accurate device models, which helps in designing better and more reliable systems.
+Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with system-level design. I develop physics-informed ML methods for fast, accurate device modeling to enable better hardware design.
 
-My main research areas are:
-- **Non-Volatile Memory**: Modeling and optimizing ReRAM and FeFET devices.
-- **AI Hardware Acceleration**: Building efficient systems for edge computing.
-- **Physics-Informed ML**: Using deep learning to speed up device simulation.
-- **System Co-Design**: Creating frameworks for automated design.
-- **Reliability**: Analyzing and improving the resilience of memory systems.
+**Research Focus:** `NVM Devices` `AI Hardware` `Physics-Informed ML` `Reliability`
 
 ---
 
@@ -76,34 +71,38 @@ My main research areas are:
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadyn3mo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="150" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadyn3mo&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="150" alt="streak"/>
+</div>
+
+---
+
 ## 📝 Featured Work
 
 ### PIGen: Accelerating ReRAM Co-Design via Generative Physics-Informed Modeling
 [![Paper](https://img.shields.io/badge/Paper-ICCAD%202025-blue?style=for-the-badge)](https://ieeexplore.ieee.org/document/11240964)
 *First Author @ IEEE/ACM ICCAD 2025*
 
-PIGen is a framework I developed to speed up the design of ReRAM devices. It uses a mix of physics-informed neural networks and generative models to quickly find optimal device parameters. This work achieved a **93x speedup** over traditional simulations with over **96% accuracy**, making it much faster to explore new design ideas.
+> 🚀 **93× Speedup** &nbsp;|&nbsp; 🎯 **96%+ Accuracy**
+
+A physics-informed generative framework for rapid ReRAM device optimization, combining neural networks with generative models to accelerate design space exploration.
 
 ### MemSysExplorer (MSX): A Framework for Next-Gen Memory Systems
 [![GitHub](https://img.shields.io/badge/GitHub-MemSysExplorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/MemSysExplorer)
 *Collaborative Research @ NSF CIRC Program*
 
-I contributed to the MemSysExplorer project by creating **msxFI**, a Python framework for testing the reliability of deep learning models. It simulates memory faults in NVM and eDRAM to see how they affect neural network performance. This tool helps researchers build more robust AI systems by understanding how hardware failures impact software.
+Developed **msxFI**, a Python-based fault injection framework for evaluating DNN reliability under NVM/eDRAM memory faults—enabling robust AI system design.
 
 ---
 
-## 💡 Passion Project
+## 💡 Side Project
 
 ### Bobi: AI-Powered Smart Food Inventory App
 
-Outside of my research, I love building things that solve real-world problems. That’s why I created Bobi. Like many people, I often struggled with the daily questions of what to buy, what to cook, and what was left in the fridge. Bobi is my answer, an iOS app that uses AI to simplify food management, reduce waste, and make meal planning easy.
-
-**What it does:**
-- **Smart Input**: You can add groceries just by speaking or scanning a receipt.
-- **AI Recommendations**: Bobi suggests recipes based on the ingredients you have, your mood, and even the weather.
-- **Reduces Waste**: The app keeps track of expiration dates and reminds you to use food before it spoils.
-
-This project was built for fun and is a great example of how I enjoy using technology to create helpful and user-friendly tools.
+An iOS app I built to solve everyday food management challenges—voice/receipt input, AI recipe suggestions, and expiration tracking to reduce waste. A fun example of applying AI to real-world problems.
 
 ---
 
