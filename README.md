@@ -75,6 +75,7 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
 
 ### PIGen: Accelerating ReRAM Co-Design via Generative Physics-Informed Modeling
 [![Paper](https://img.shields.io/badge/Paper-ICCAD%202025-blue?style=for-the-badge)](https://ieeexplore.ieee.org/document/11240964)
+[![GitHub](https://img.shields.io/badge/GitHub-PIGen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/pigen)
 *First Author @ IEEE/ACM ICCAD 2025*
 
 > 🚀 **93× Speedup** &nbsp;|&nbsp; 🎯 **96%+ Accuracy**
