@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zihan%20Zhang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ph.D.%20Candidate%20|%20AI%20Hardware%20|%20NVM%20Devices&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zihan%20Zhang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ph.D.%20Candidate%20|%20Physics-Informed%20ML%20|%20Semiconductor%20%26%20EDA&descSize=16&descAlignY=52" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Physics-Informed+Machine+Learning;NVM+Device+Modeling+%26+Optimization;Building+Next-Gen+Memory+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Physics-Informed+Machine+Learning;ReRAM+Device+Modeling+%26+Optimization;Compute-in-Memory+%26+EDA" alt="Typing SVG" />
 
 <p>
   <a href="mailto:zihan.zhang@tufts.edu">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-📍 Somerville, MA
+📍 Gresham, OR
 
 <img src="https://komarev.com/ghpvc/?username=shadyn3mo&label=Visitors&color=6366F1&style=flat-square" alt="Profile views" />
 
@@ -26,9 +26,11 @@
 
 ## 🌟 About Me
 
-Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with system-level design. I develop physics-informed ML methods for fast, accurate device modeling to enable better hardware design.
+Ph.D. Candidate in ECE at **Tufts University** (expected Dec 2026), bridging device physics with system-level design. I develop physics-informed ML methods for fast, accurate device modeling to enable better hardware design.
 
-**Research Focus:** `NVM Devices` `AI Hardware` `Physics-Informed ML` `Reliability`
+Most recently a **Research Intern at onsemi** (Summer 2026), where I built probabilistic ReRAM device models and a ReRAM crossbar compute-in-memory demo. At Tufts I lead **msxFI**, the DNN reliability pipeline of the NSF-funded MemSysExplorer framework.
+
+**Research Focus:** `ReRAM & NVM Devices` `Physics-Informed ML` `Compute-in-Memory` `EDA` `Reliability`
 
 ---
 
@@ -39,21 +41,22 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
   <td valign="top">
     <h3>Modeling & EDA</h3>
     <ul>
-      <li>Synopsys Sentaurus</li>
-      <li>Cadence Virtuoso/Spectre</li>
+      <li>Sentaurus TCAD</li>
+      <li>Cadence Virtuoso</li>
+      <li>Synopsys Custom Compiler</li>
+      <li>HSPICE / Verilog-A</li>
       <li>NVSim</li>
-      <li>COMSOL</li>
     </ul>
   </td>
   <td valign="top">
     <h3>Programming & ML</h3>
     <div align="center">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,docker" />
     </div>
     <ul>
-      <li>Python (PyTorch, NumPy)</li>
-      <li>C++ / Verilog-A</li>
-      <li>MATLAB</li>
+      <li>Python (PyTorch, NumPy, pandas)</li>
+      <li>C / C++</li>
+      <li>Docker / Linux / HPC</li>
     </ul>
   </td>
   <td valign="top">
@@ -61,8 +64,8 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
     <ul>
       <li>Semiconductor Physics</li>
       <li>NVM (ReRAM/FeFET)</li>
-      <li>AI Hardware</li>
-      <li>Generative Models</li>
+      <li>Compute-in-Memory</li>
+      <li>Generative & Probabilistic Models</li>
       <li>Reliability Analysis</li>
     </ul>
   </td>
@@ -78,15 +81,23 @@ Ph.D. Candidate in ECE at **Tufts University**, bridging device physics with sys
 [![GitHub](https://img.shields.io/badge/GitHub-PIGen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/pigen)
 *First Author @ IEEE/ACM ICCAD 2025*
 
-> 🚀 **93× Speedup** &nbsp;|&nbsp; 🎯 **96%+ Accuracy**
+> 🚀 **Up to 93× Faster Inference than SPICE** &nbsp;|&nbsp; 🎯 **96.33% Switching-Period Accuracy from 9% of the Training Set**
 
-A physics-informed generative framework for rapid ReRAM device optimization, combining neural networks with generative models to accelerate design space exploration.
+A physics-informed generative framework for ReRAM device-circuit co-design: a PINN handles forward prediction of device behavior, and a CVAE handles inverse design of operating parameters from target specifications.
+
+### Towards Energy-Efficient and Reliable Embedded DRAM via Application-Aware Optimizations
+![Paper](https://img.shields.io/badge/Paper-ICCAD%202026-blue?style=for-the-badge)
+*Co-First Author @ IEEE/ACM ICCAD 2026*
+
+> ⚡ **81.6% LLC Energy Reduction** (DNN-only) &nbsp;|&nbsp; **59.3%** (mixed DNN/SPEC CPU)
+
+A workload- and variability-aware refresh strategy for eDRAM last-level caches that uses subarray access locality and DNN fault tolerance to relax refresh constraints, combined with INT8 quantization.
 
 ### MemSysExplorer (MSX): A Framework for Next-Gen Memory Systems
 [![GitHub](https://img.shields.io/badge/GitHub-MemSysExplorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/MemSysExplorer)
 *Collaborative Research @ NSF CIRC Program*
 
-Developed **msxFI**, a Python-based fault injection framework for evaluating DNN reliability under NVM/eDRAM memory faults—enabling robust AI system design.
+I lead **msxFI**, the bit-level fault-injection pipeline that models multi-level cell errors in ReRAM/FeFET and leakage-induced bit flips in eDRAM/DRAM to measure DNN accuracy loss. As Tech Team Lead I coordinate ~20 contributors across Tufts, Harvard, and Amherst College.
 
 ---
 
