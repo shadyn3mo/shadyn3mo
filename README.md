@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zihan%20Zhang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ph.D.%20Candidate%20|%20Physics-Informed%20ML%20|%20Semiconductor%20%26%20EDA&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zihan%20Zhang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ph.D.%20Candidate%20%7C%20Physics-Informed%20ML%20%7C%20Semiconductor%20EDA&descSize=16&descAlignY=52" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Physics-Informed+Machine+Learning;ReRAM+Device+Modeling+%26+Optimization;Compute-in-Memory+%26+EDA" alt="Typing SVG" />
 
 <p>
   <a href="mailto:zihan.zhang@tufts.edu">
-    <img src="https://img.shields.io/badge/Email-zihan.zhang@tufts.edu-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/zihanz">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,9 +16,7 @@
   </a>
 </p>
 
-📍 Gresham, OR
-
-<img src="https://komarev.com/ghpvc/?username=shadyn3mo&label=Visitors&color=6366F1&style=flat-square" alt="Profile views" />
+📍 Gresham, OR &nbsp;&nbsp;·&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=shadyn3mo&label=Visitors&color=6366F1&style=flat-square" alt="Profile views" />
 
 </div>
 
