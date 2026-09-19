@@ -91,6 +91,14 @@ A physics-informed generative framework for ReRAM device-circuit co-design: a PI
 
 A workload- and variability-aware refresh strategy for eDRAM last-level caches that uses subarray access locality and DNN fault tolerance to relax refresh constraints, combined with INT8 quantization.
 
+### Event-Driven XR Task Partitioning on Heterogeneous Memory Fabrics
+![Paper](https://img.shields.io/badge/Paper-ICCD%202026-blue?style=for-the-badge)
+*First Author @ IEEE ICCD 2026*
+
+> ⚡ **92.0% Lower Energy** &nbsp;|&nbsp; ⏱️ **73.3% Lower Latency** (keyword detection, averaged across layers, ReRAM PIM vs. SRAM)
+
+An architecture exploration framework for event-driven XR DNN workloads, comparing SRAM, hybrid SRAM/ReRAM scratchpads, and dedicated ReRAM processing-in-memory (PIM). Combines NVMExplorer, NeuroSim, and XRBench to evaluate task partitioning under energy and latency constraints.
+
 ### MemSysExplorer (MSX): A Framework for Next-Gen Memory Systems
 [![GitHub](https://img.shields.io/badge/GitHub-MemSysExplorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/MemSysExplorer)
 *Collaborative Research @ NSF CIRC Program*
