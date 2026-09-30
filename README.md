@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Physics-Informed+Machine+Learning;ReRAM+Device+Modeling+%26+Optimization;Compute-in-Memory+%26+EDA" alt="Typing SVG" />
 
 <p>
-  <a href="mailto:zihan.zhang@tufts.edu">
+  <a href="mailto:zihanz@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/zihanz">
@@ -26,7 +26,7 @@
 
 Ph.D. Candidate in ECE at **Tufts University** (expected Dec 2026), bridging device physics with system-level design. I develop physics-informed ML methods for fast, accurate device modeling to enable better hardware design.
 
-Most recently a **Research Intern at onsemi** (Summer 2026), where I built probabilistic ReRAM device models and a ReRAM crossbar compute-in-memory demo. At Tufts I lead **msxFI**, the DNN reliability pipeline of the NSF-funded MemSysExplorer framework.
+Most recently a **Research Intern at onsemi** (Summer 2026), where I built physics-constrained ReRAM distribution models and co-developed a ReRAM crossbar compute-in-memory demo. At Tufts I led **msxFI**, the DNN reliability pipeline of the NSF-funded MemSysExplorer framework.
 
 **Research Focus:** `ReRAM & NVM Devices` `Physics-Informed ML` `Compute-in-Memory` `EDA` `Reliability`
 
@@ -103,7 +103,7 @@ An architecture exploration framework for event-driven XR DNN workloads, compari
 [![GitHub](https://img.shields.io/badge/GitHub-MemSysExplorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuftsECS/MemSysExplorer)
 *Collaborative Research @ NSF CIRC Program*
 
-I lead **msxFI**, the bit-level fault-injection pipeline that models multi-level cell errors in ReRAM/FeFET and leakage-induced bit flips in eDRAM/DRAM to measure DNN accuracy loss. As Tech Team Lead I coordinate ~20 contributors across Tufts, Harvard, and Amherst College.
+I led **msxFI**, the bit-level fault-injection pipeline that models multi-level cell errors in ReRAM/FeFET and leakage-induced bit flips in eDRAM/DRAM to measure DNN accuracy loss. As Tech Team Lead I coordinated ~20 contributors across Tufts, Harvard, and Amherst College.
 
 ---
 
